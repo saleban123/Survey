@@ -1,1 +1,1 @@
-https://github.com/saleban123/Survey-for-First-Names.git
+https://github.com/saleban123/Survey.git
