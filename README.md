@@ -1,1 +1,1 @@
-https://github.com/saleban123/Survey.git
+https://saleban123.github.io/Survey/
