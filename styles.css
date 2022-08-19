@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    font-size: 40px;
+    background-color:rgb(0, 247, 255);
+    text-align: center;
+    width: 300px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: auto;
+  }
+
+  form {
+    background-color:rgb(0, 247, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 300px;
+    border:5px solid black;
+    padding: 50px;
+    margin: auto;
+  }
+
+  p {
+      color: black;
+      font-weight: bold;
+      font-size: 30px;
+  }
